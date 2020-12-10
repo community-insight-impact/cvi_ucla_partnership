@@ -1,7 +1,5 @@
-S1901
-INCOME IN THE PAST 12 MONTHS (IN 2018 INFLATION-ADJUSTED DOLLARS)
-When information is missing or inconsistent, the Census Bureau logically assigns an acceptable value using the response to a related question or questions. If a logical assignment is not possible, data are filled using a statistical process called allocation, which uses a similar individual or household to provide a donor value. The "Allocated" section is the number of respondents who received an allocated value for a particular subject.<br/><br/>
-
+B25074
+HOUSEHOLD INCOME BY GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS
 Supporting documentation on code lists, subject definitions, data accuracy, and statistical testing can be found on the American Community Survey website in the 
 <a href="https://www.census.gov/programs-surveys/acs/technical-documentation/code-lists.html" xmlns="http://www.thedataweb.org/aggregateDisplay">Technical Documentation</a>
 

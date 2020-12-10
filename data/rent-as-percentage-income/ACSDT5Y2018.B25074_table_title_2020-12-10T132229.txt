@@ -1,5 +1,5 @@
-B25070
-GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS
+B25074
+HOUSEHOLD INCOME BY GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS
 Supporting documentation on code lists, subject definitions, data accuracy, and statistical testing can be found on the American Community Survey website in the 
 <a href="https://www.census.gov/programs-surveys/acs/technical-documentation/code-lists.html" xmlns="http://www.thedataweb.org/aggregateDisplay">Technical Documentation</a>
 

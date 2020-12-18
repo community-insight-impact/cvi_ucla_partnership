@@ -1,1 +1,2 @@
-# Community Insights & Impact | Renter Vulnerability, NYC
+# Community Insights & Impact 
+Renter Vulnerability, NYC
